@@ -21,6 +21,7 @@ const TEMPLATE_CONFIG = [
       ---
       
       今天是我们相识的第{{love_day.DATA}}天
+      啾咪~瑜宝爱你！
       
     `
   },
